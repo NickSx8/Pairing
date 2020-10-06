@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.UCP-logo {
+  height: 100px;
+  width: 450px;
+  padding: 50px 50px 50px 50px;
+}
+
+.App-header {
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  font: 25px Arial, sans-serif;
+  font-weight: bold;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.Form{
+  padding: 20px 200px 50px 200px;
+  background-color: whitesmoke;
+}
+.FormBodyLogin {
+  padding-top: 35px; 
+  padding-left: 85px;
+  text-align: left;
+  border-radius: 15px;
+  background-color: teal;
+  height: 200px;
+  color: white;
+  font-weight: bold;
+}
